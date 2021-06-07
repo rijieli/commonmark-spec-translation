@@ -1,7 +1,8 @@
 # 附录：一种语法分析策略
 
 > 原文链接：https://spec.commonmark.org/0.29/#appendix-a-parsing-strategy
-> 未翻译或者难以直译的内容两端以百分号 % 标注，欢迎反馈
+
+未翻译或者难以直译的内容两端以百分号 % 标注，欢迎反馈：[rijieli/commonmark-spec-translation](https://github.com/rijieli/commonmark-spec-translation)
 
 在本附录中，我们描述了 CommonMark 参考实现中使用的语法分析策略的一些特性。
 
